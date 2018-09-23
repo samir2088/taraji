@@ -1,1 +1,91 @@
+[
+  {
+     "title":"ثقافة جنسية",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+
+	 {
+        "title":"Capital- EnQ-Exc",
+        "provider":"youtube",
+        "arguments":[
+          "UCUZY64_oANDYRe6cEM4RBuA",
+          "channel"
+
+        ]
+     },
+
+	        {
+        "title":"TCF",
+        "provider":"youtube",
+        "arguments":[
+          "PLZE__x8fBoginZoO3ucySiaCY05XFjIyb",
+          "playlist"
+
+        ]
+      }
+	 ,
+     {
+        "title":"TCF",
+        "provider":"youtube",
+        "arguments":[
+          "UC_4WpPcSfpxsSqA6hNpqJbg",
+          "channel"
+
+        ]
+      }
+   
+  ]
+  }
+  ,
+
+ {
+    "title":"BEIN MAX 1 جودة عالية",
+    "drawable":"",
+    "submenu":"حمل Mx Player قبل التشغيل",
+    "iap":false,
+    "tabs":[
+        {
+        "title":"Live",
+        "provider":"stream",
+        "arguments":[
+          "http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
+        ]
+      }
+    ]
+  },
+
+ {
+    "title":"نتائج",
+    "drawable":"",
+    "submenu":"أخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://ar.fifa.com/worldcup/matches/index.html"
+        ]
+      }
+    ]
+
+  },
+  {
+    "title":"A propos",
+    "drawable":"",
+    "submenu":"autres",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.mex.myapp.taraji.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
 
