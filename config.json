@@ -1,140 +1,126 @@
-[
-  {
-     "title":"Youtube",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
+[{
+		"title": "Youtube",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [
 
-	 {
-        "title":"News",
-        "provider":"youtube",
-        "arguments":[
-          "TheSProd1",
-          "channel"
+			{
+				"title": "News",
+				"provider": "youtube",
+				"arguments": [
+					"TheSProd1",
+					"channel"
 
-        ]
-     },
+				]
+			},
 
-	        {
-        "title":"الدوري التونسي",
-        "provider":"youtube",
-        "arguments":[
-          "PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
-          "playlist"
+			{
+				"title": "الدوري التونسي",
+				"provider": "youtube",
+				"arguments": [
+					"PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
+					"playlist"
 
-        ]
-      }
-	 ,
-     {
-        "title":"البطولة العربية",
-        "provider":"youtube",
-        "arguments":[
-          "PLtBfZ7MNAEp9CYiDlxkkLJw8Pu4bH7iMj",
-          "playlist"
+				]
+			},
+			{
+				"title": "البطولة العربية",
+				"provider": "youtube",
+				"arguments": [
+					"PLtBfZ7MNAEp9CYiDlxkkLJw8Pu4bH7iMj",
+					"playlist"
 
-        ]
-      }
-	    {
-        "title":"آخر الأخبار",
-        "provider":"youtube",
-        "arguments":[
-          "UCArUYyYBngpwiklYtqZPPfg",
-          "channel"
+				]
+			},
+		  {
+				"title": "آخر الأخبار",
+				"provider": "youtube",
+				"arguments": [
+					"UCArUYyYBngpwiklYtqZPPfg",
+					"channel"
 
-        ]
-      }
-	 ,
+				]
+			},
+			{
+				"title": "foot24",
+				"provider": "youtube",
+				"arguments": [
+					"foot24tunisie",
+					"channel"
+
+				]
+			}, {
+				"title": "TN Foot",
+				"provider": "youtube",
+				"arguments": [
+					"UCMP1Vcd1z_zoPy6cXci5MOw",
+					"channel"
+
+				]
+			},
+			{
+				"title": "الدوري التونسي",
+				"provider": "youtube",
+				"arguments": [
+					"PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
+					"playlist"
+
+				]
+			},
+			{
+				"title": "الدوري التونسي",
+				"provider": "youtube",
+				"arguments": [
+					"PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
+					"playlist"
+
+				]
+			}
+
+		]
+	},
+
 	{
-        "title":"foot24",
-        "provider":"youtube",
-        "arguments":[
-          "foot24tunisie",
-          "channel"
+		"title": "BEIN MAX 1 جودة عالية",
+		"drawable": "",
+		"submenu": "حمل Mx Player قبل التشغيل",
+		"iap": false,
+		"tabs": [{
+			"title": "Live",
+			"provider": "stream",
+			"arguments": [
+				"http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
+			]
+		}]
+	},
 
-        ]
-      }
-	 ,{
-        "title":"TN Foot",
-        "provider":"youtube",
-        "arguments":[
-          "UCMP1Vcd1z_zoPy6cXci5MOw",
-          "channel"
-
-        ]
-      }
-	 ,
 	{
-        "title":"الدوري التونسي",
-        "provider":"youtube",
-        "arguments":[
-          "PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
-          "playlist"
+		"title": "نتائج",
+		"drawable": "",
+		"submenu": "أخري",
+		"iap": false,
+		"tabs": [{
+			"title": "WebView",
+			"provider": "webview",
+			"arguments": [
+				"http://ar.fifa.com/worldcup/matches/index.html"
+			]
+		}]
 
-        ]
-      }
-	 ,
+	},
 	{
-        "title":"الدوري التونسي",
-        "provider":"youtube",
-        "arguments":[
-          "PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
-          "playlist"
-
-        ]
-      }
-	 ,
-   
-  ]
-  }
-  ,
-
- {
-    "title":"BEIN MAX 1 جودة عالية",
-    "drawable":"",
-    "submenu":"حمل Mx Player قبل التشغيل",
-    "iap":false,
-    "tabs":[
-        {
-        "title":"Live",
-        "provider":"stream",
-        "arguments":[
-          "http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
-        ]
-      }
-    ]
-  },
-
- {
-    "title":"نتائج",
-    "drawable":"",
-    "submenu":"أخري",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://ar.fifa.com/worldcup/matches/index.html"
-        ]
-      }
-    ]
-
-  },
-  {
-    "title":"A propos",
-    "drawable":"",
-    "submenu":"autres",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"custom",
-        "arguments":[
-          "com.mex.myapp.taraji.SettingsFragment", "fragment"
-        ]
-      }
-    ]
-  }
+		"title": "A propos",
+		"drawable": "",
+		"submenu": "autres",
+		"iap": false,
+		"tabs": [{
+			"title": "",
+			"provider": "custom",
+			"arguments": [
+				"com.mex.myapp.taraji.SettingsFragment", "fragment"
+			]
+		}]
+	}
 ]
 
