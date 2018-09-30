@@ -1,40 +1,89 @@
 [
   {
-     "title":"ثقافة جنسية",
+     "title":"Youtube",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
 
 	 {
-        "title":"Capital- EnQ-Exc",
+        "title":"News",
         "provider":"youtube",
         "arguments":[
-          "UCUZY64_oANDYRe6cEM4RBuA",
+          "TheSProd1",
           "channel"
 
         ]
      },
 
 	        {
-        "title":"TCF",
+        "title":"الدوري التونسي",
         "provider":"youtube",
         "arguments":[
-          "PLZE__x8fBoginZoO3ucySiaCY05XFjIyb",
+          "PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
           "playlist"
 
         ]
       }
 	 ,
      {
-        "title":"TCF",
+        "title":"البطولة العربية",
         "provider":"youtube",
         "arguments":[
-          "UC_4WpPcSfpxsSqA6hNpqJbg",
+          "PLtBfZ7MNAEp9CYiDlxkkLJw8Pu4bH7iMj",
+          "playlist"
+
+        ]
+      }
+	    {
+        "title":"آخر الأخبار",
+        "provider":"youtube",
+        "arguments":[
+          "UCArUYyYBngpwiklYtqZPPfg",
           "channel"
 
         ]
       }
+	 ,
+	{
+        "title":"foot24",
+        "provider":"youtube",
+        "arguments":[
+          "foot24tunisie",
+          "channel"
+
+        ]
+      }
+	 ,{
+        "title":"TN Foot",
+        "provider":"youtube",
+        "arguments":[
+          "UCMP1Vcd1z_zoPy6cXci5MOw",
+          "channel"
+
+        ]
+      }
+	 ,
+	{
+        "title":"الدوري التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
+          "playlist"
+
+        ]
+      }
+	 ,
+	{
+        "title":"الدوري التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
+          "playlist"
+
+        ]
+      }
+	 ,
    
   ]
   }
