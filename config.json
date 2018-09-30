@@ -6,10 +6,10 @@
 		"tabs": [
 
 			{
-				"title": "News",
+				"title": "آخر الأخبار",
 				"provider": "youtube",
 				"arguments": [
-					"TheSProd1",
+					"UCArUYyYBngpwiklYtqZPPfg",
 					"channel"
 
 				]
@@ -34,11 +34,11 @@
 				]
 			},
 		  {
-				"title": "آخر الأخبار",
+				"title": "الأحد الرّياضي",
 				"provider": "youtube",
 				"arguments": [
-					"UCArUYyYBngpwiklYtqZPPfg",
-					"channel"
+					"PLmQHtil5-0QW9JaQ4oHqQA3T9QMy7Xuiv",
+					"playlist"
 
 				]
 			},
@@ -60,20 +60,20 @@
 				]
 			},
 			{
-				"title": "الدوري التونسي",
+				"title": "Europe",
 				"provider": "youtube",
 				"arguments": [
-					"PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
-					"playlist"
+					"UC7C-kigODYM1DhEO14yKXAA",
+					"channel"
 
 				]
 			},
 			{
-				"title": "الدوري التونسي",
+				"title": "internationale",
 				"provider": "youtube",
 				"arguments": [
-					"PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
-					"playlist"
+					"UCfz75r62VqNNbiLgF_CukaA",
+					"channel"
 
 				]
 			}
