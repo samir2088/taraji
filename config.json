@@ -82,13 +82,52 @@
 	},
 
 	{
-		"title": "BEIN MAX 1 جودة عالية",
+		"title": "Footbal",
 		"drawable": "",
-		"submenu": "حمل Mx Player قبل التشغيل",
+		"submenu": "Site official",
 		"iap": false,
 		"tabs": [{
-			"title": "Live",
-			"provider": "stream",
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.est.org.tn/est.php"
+			]
+		}]
+	},
+ {
+		"title": "",
+		"drawable": "",
+		"submenu": "Site official",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
+			]
+		}]
+	},
+ {
+		"title": "",
+		"drawable": "",
+		"submenu": "Site official",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
+			]
+		}]
+	},
+ {
+		"title": "",
+		"drawable": "",
+		"submenu": "Site official",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
 			"arguments": [
 				"http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
 			]
