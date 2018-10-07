@@ -25,6 +25,15 @@
 				]
 			},
 			{
+				"title": "TheSProd1",
+				"provider": "youtube",
+				"arguments": [
+					"UCJvLaCFxo-IwqHCP9q1SDAg",
+					"channel"
+
+				]
+			},
+			{
 				"title": "البطولة العربية",
 				"provider": "youtube",
 				"arguments": [
@@ -33,8 +42,17 @@
 
 				]
 			},
+			{
+				"title": "Sport.",
+				"provider": "youtube",
+				"arguments": [
+					"UC-BJyp7FYMNFTAu24QbXepQ",
+					"playlist"
+
+				]
+			},
 		  {
-				"title": "الأحد الرّياضي",
+				"title": "برامج رياضية",
 				"provider": "youtube",
 				"arguments": [
 					"PLmQHtil5-0QW9JaQ4oHqQA3T9QMy7Xuiv",
@@ -87,7 +105,25 @@
 				]
 			},
 			{
-				"title": "internationale",
+				"title": "FootballMinds",
+				"provider": "youtube",
+				"arguments": [
+					"UCTdML4t_wl59_3WoWg8jTlQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "kooora",
+				"provider": "youtube",
+				"arguments": [
+					"UCJeSOWjupev0o3jOXMu9gTA",
+					"channel"
+
+				]
+			},
+			{
+				"title": "foot+",
 				"provider": "youtube",
 				"arguments": [
 					"UCfz75r62VqNNbiLgF_CukaA",
@@ -179,10 +215,50 @@
 		}]
 	},
  
+
+{
+		"title": "E-S-Tunis.com",
+		"drawable": "",
+		"submenu": "Autres Site Web",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://e-s-tunis.com/ar"
+			]
+		}]
+	},
  {
-		"title": "Taraji Store",
+		"title": "Esperance-de-tunis.net,
 		"drawable": "",
 		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.esperance-de-tunis.net/"
+			]
+		}]
+	},
+ {
+		"title": "tuniscope.com",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.tuniscope.com/"
+			]
+		}]
+	},
+  {
+		"title": "Taraji Store",
+		"drawable": "",
+		"submenu": "أخري",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
@@ -218,45 +294,6 @@
 			]
 		}]
 },
-{
-		"title": "E-S-Tunis.com",
-		"drawable": "",
-		"submenu": "Autres Site Web",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"https://e-s-tunis.com/ar"
-			]
-		}]
-	},
- {
-		"title": "E-S-Tunis.com",
-		"drawable": "",
-		"submenu": "",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"https://e-s-tunis.com/ar"
-			]
-		}]
-	},
- {
-		"title": "E-S-Tunis.com",
-		"drawable": "",
-		"submenu": "",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"https://e-s-tunis.com/ar"
-			]
-		}]
-	},
 	{
 		"title": "نتائج",
 		"drawable": "",
