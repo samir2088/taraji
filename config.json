@@ -160,6 +160,46 @@
 			]
 		}]
 	},
+ 
+ {
+		"title": "Taraji Store",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://tarajistore.com/est/"
+			]
+		}]
+},
+ {
+		"title": "Taraji Mobile",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.est.org.tn/tarajimobile/"
+			]
+		}]
+},
+ {
+		"title": "Billetterie",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.est.org.tn/billetterie.php"
+			]
+		}]
+},
 {
 		"title": "E-S-Tunis.com",
 		"drawable": "",
