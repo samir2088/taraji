@@ -1,5 +1,5 @@
 [{
-		"title": "Youtube",
+		"title": "ملخّصات و أهداف",
 		"drawable": "",
 		"submenu": "",
 		"iap": false,
@@ -80,9 +80,10 @@
 
 		]
 	},
+ 
 
 	{
-		"title": "Footbal",
+		"title": "Club",
 		"drawable": "",
 		"submenu": "Site official",
 		"iap": false,
@@ -95,45 +96,109 @@
 		}]
 	},
  {
-		"title": "",
+		"title": "Foot",
 		"drawable": "",
-		"submenu": "Site official",
+		"submenu": "",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
+				"http://www.est.org.tn/actualites_disc/1/start#"
 			]
 		}]
 	},
  {
-		"title": "",
+		"title": "Hand",
 		"drawable": "",
-		"submenu": "Site official",
+		"submenu": "",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
+				"http://handball.est.org.tn/"
 			]
 		}]
 	},
  {
-		"title": "",
+		"title": "Volley",
 		"drawable": "",
-		"submenu": "Site official",
+		"submenu": "",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
+				"http://volleyball.est.org.tn/#"
 			]
 		}]
 	},
-
+ {
+		"title": "Video",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.est.org.tn/taraji-tv.php"
+			]
+		}]
+	},
+ {
+		"title": "Page Facebook",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://web.facebook.com/EsperanceSportivedeTunis/"
+			]
+		}]
+	},
+{
+		"title": "E-S-Tunis.com",
+		"drawable": "",
+		"submenu": "Autres Site Web",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://e-s-tunis.com/ar"
+			]
+		}]
+	},
+ {
+		"title": "E-S-Tunis.com",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://e-s-tunis.com/ar"
+			]
+		}]
+	},
+ {
+		"title": "E-S-Tunis.com",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://e-s-tunis.com/ar"
+			]
+		}]
+	},
 	{
 		"title": "نتائج",
 		"drawable": "",
