@@ -43,6 +43,15 @@
 				]
 			},
 			{
+				"title": "Foot 24",
+				"provider": "youtube",
+				"arguments": [
+					"UCuPDFRItTEn34XWqAcdCgNg",
+					"channel"
+
+				]
+			},
+			{
 				"title": "ملخصات",
 				"provider": "youtube",
 				"arguments": [
@@ -55,6 +64,15 @@
 				"provider": "youtube",
 				"arguments": [
 					"UCMP1Vcd1z_zoPy6cXci5MOw",
+					"channel"
+
+				]
+			},
+			{
+				"title": "الدّوري الفرنسي",
+				"provider": "youtube",
+				"arguments": [
+					"UCQsH5XtIc9hONE1BQjucM0g",
 					"channel"
 
 				]
