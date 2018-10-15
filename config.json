@@ -256,6 +256,155 @@
 		}]
 	},
  {
+     "title":" TV REPLAYS",
+    "drawable":"",
+    "submenu":"الاعادات (جميع القنوات)",
+    "iap":false,
+    "tabs":[
+	           
+	 {
+        "title":"Mosaique FM",
+        "provider":"youtube",
+        "arguments":[
+          "UC6y8T-vG9SeQ-FKOCt_o8MA",
+          "channel"
+
+        ]
+     }
+	    ,
+	    	 {
+        "title":"IFM",
+        "provider":"youtube",
+        "arguments":[
+          "UCvPW0VhnTcxYjWIxCvMlw2Q",
+          "channel"
+
+        ]
+     }
+	    ,
+     {
+        "title":"الوطنية Replays",
+        "provider":"youtube",
+        "arguments":[
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+
+        ]
+     }
+	    ,
+	 {
+        "title":"2 الوطنية",
+        "provider":"youtube",
+        "arguments":[
+          "UCJW9gatYczI191TunQxMGbA",
+          "channel"
+
+        ]
+     }
+	        ,
+	 {
+        "title":"الحوار التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "UCXzmMkXaHxMVlutDBD8goHA",
+          "channel"
+
+        ]
+     }
+	          ,
+	 {
+        "title":"Nessma TV",
+        "provider":"youtube",
+        "arguments":[
+          "UC-48PCT3flS86JkLzxlTA9g",
+          "channel"
+
+        ]
+     }
+	         ,
+	 {
+        "title":"Hannibal TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCW7MhIFzZtsVe7ud36PvNeA",
+          "channel"
+
+        ]
+     }
+	      ,
+	 {
+        "title":"الجزيرة",
+        "provider":"youtube",
+        "arguments":[
+          "UCfiwzLy-8yKzIbsmZTzxDgw",
+          "channel"
+
+        ]
+     }
+	          ,
+	 {
+        "title":"France 24",
+        "provider":"youtube",
+        "arguments":[
+          "UCdTyuXgmJkG_O8_75eqej-w",
+          "channel"
+
+        ]
+     }
+	         ,
+	 {
+        "title":"CNEWS FR",
+        "provider":"youtube",
+        "arguments":[
+          "UCXKJrYczY2_fJEZgFPGY0HQ",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"France 24 FR",
+        "provider":"youtube",
+        "arguments":[
+          "UCCCPCZNChQdGa9EkATeye4g",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"BFMTV",
+        "provider":"youtube",
+        "arguments":[
+          "UCXwDLMDV86ldKoFVc_g8P0g",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"DOCUMENTAIRE",
+        "provider":"youtube",
+        "arguments":[
+          "UCbXTtVr-7Esg1Z2m1nsGu4Q",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"AlArabiya قناة العربية ",
+        "provider":"youtube",
+        "arguments":[
+          "UCahpxixMCwoANAftn6IxkTg",
+          "channel"
+
+        ]
+     }
+	    ]
+		}
+	,
+ {
         "title":"Mosaique FM",
     "drawable":"",
     "submenu":"RADIO LIVE",
@@ -415,6 +564,230 @@
 	  ]
 	  }
 	    ,
+   {
+   "title":"الشروق",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.alchourouk.com"
+        ]
+      }
+    ]
+
+  },
+	{
+   "title":"المصدر",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://ar.webmanagercenter.com/"
+        ]
+      }
+    ]
+
+  },
+	
+	{
+   "title":"اخر خبر",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.akherkhabaronline.com/ar/1/actualites/%D9%88%D8%B7%D9%86%D9%8A%D8%A9"
+        ]
+      }
+	    
+    ]
+
+  },
+		{
+   "title":"الصباح",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.assabahnews.tn/rss-feed"
+        ]
+      }
+	    
+    ]
+
+  },
+			{
+   "title":"Tunisie Numérique",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.tunisienumerique.com/actualite-tunisie/politique/"
+        ]
+      }
+	    
+    ]
+
+  },
+			{
+   "title":"Business News",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.businessnews.com.tn/"
+        ]
+      }
+	    
+    ]
+
+  },
+		{
+   "title":"Leaders",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.leaders.com.tn/contentTopic"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"Realites",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.realites.com.tn/category/news/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"Huffpost Maghreb",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.huffpostmaghreb.com/tunisie/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"أخبار النادي الافريقي",
+    "drawable":"",
+    "submenu":"كرة قدم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.ligueclubiste.com/sitear/"
+        ]
+      }
+	    
+    ]
+
+  },
+		{
+   "title":"أخبار النجم الساحلي",
+    "drawable":"",
+    "submenu":"كرة قدم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://kora.com/tunisia/etoile-du-sahel/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"أخبار  النادي الصفاقسي",
+    "drawable":"",
+    "submenu":"كرة قدم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.sfaxien.net/search/label/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%20%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D9%82%D8%B3%D9%8A"
+        ]
+      }
+	    
+    ]
+
+  },
+	 {
+    "title":"أخبار سريعة",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+ 
+      {
+        "title":"France 24",
+        "provider":"rss",
+        "arguments":[
+          "http://www.france24.com/ar/france/rss"  ]
+      },
+      {
+        "title":"France 24 Sport",
+        "provider":"rss",
+        "arguments":[
+          "http://www.france24.com/ar/sport/rss"  ]
+      }
+    ]
+  },
 	
   {
 		"title": "Taraji Store",
