@@ -187,6 +187,19 @@
 			]
 		}]
 	},
+ {
+		"title": "رابط 4 مباشر",
+		"drawable": "",
+		"submenu": " تغطية لجلّ المباريات ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.kora-star.tv/"
+			]
+		}]
+	},
 
 	{
 		"title": "Club",
