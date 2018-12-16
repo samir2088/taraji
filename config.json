@@ -118,8 +118,7 @@
 
 				]
 			},
-      
-      {
+{
 				"title": "الدوري المغربي ",
 				"provider": "youtube",
 				"arguments": [
@@ -128,7 +127,7 @@
 
 				]
 			},
-      {
+{
 				"title": "الدوري الجزائري",
 				"provider": "youtube",
 				"arguments": [
@@ -137,7 +136,8 @@
 
 				]
 			},
-			{
+			
+{
 				"title": "Europe",
 				"provider": "youtube",
 				"arguments": [
@@ -146,7 +146,7 @@
 
 				]
 			},
-			{
+{
 				"title": "FootballMinds",
 				"provider": "youtube",
 				"arguments": [
@@ -155,7 +155,7 @@
 
 				]
 			},
-			{
+{
 				"title": "kooora",
 				"provider": "youtube",
 				"arguments": [
