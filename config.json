@@ -108,6 +108,35 @@
 
 				]
 			},
+					},
+      {
+				"title": "الدوري المصري",
+				"provider": "youtube",
+				"arguments": [
+					"UCB36jBOj5L5YcwUGj82rOCQ",
+					"channel"
+
+				]
+			},
+      
+      {
+				"title": "الدوري المغربي ",
+				"provider": "youtube",
+				"arguments": [
+					"UCEKdxDkET7eUg6kaY5Q4Njg",
+					"channel"
+
+				]
+			},
+      {
+				"title": "الدوري الجزائري",
+				"provider": "youtube",
+				"arguments": [
+					"UCnDDEjh0Ert0l-smpCq9yGw",
+					"channel"
+
+				]
+			},
 			{
 				"title": "Europe",
 				"provider": "youtube",
