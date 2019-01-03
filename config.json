@@ -229,6 +229,19 @@
 			]
 		}]
 	},
+ {
+		"title": "رابط",
+		"drawable": "",
+		"submenu": " تغطية ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.stream4free.live/tfx"
+			]
+		}]
+	},
 
 	{
 		"title": "Club",
