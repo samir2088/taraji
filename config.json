@@ -15,6 +15,25 @@
 
 				]
 			},
+			
+			{
+				"title": "Est Tunis HD",
+				"provider": "youtube",
+				"arguments": [
+					"UCS1OKeukcane2LB9m7cuecw",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Artiste Tunisien 03",
+				"provider": "youtube",
+				"arguments": [
+					"UCGeQfeDp5wSzSEC81CNaXJg",
+					"channel"
+
+				]
+			},
 
 			{
 				"title": "الدوري التونسي",
@@ -26,10 +45,10 @@
 				]
 			},
 			{
-				"title": "TheSProd1",
+				"title": "Nessma Sport",
 				"provider": "youtube",
 				"arguments": [
-					"UCJvLaCFxo-IwqHCP9q1SDAg",
+					"UCRs-gXzqUiOuXcCTTOQhVug",
 					"channel"
 
 				]
@@ -53,15 +72,7 @@
 
 				]
 			},
-			{
-				"title": "البطولة العربية",
-				"provider": "youtube",
-				"arguments": [
-					"PLtBfZ7MNAEp9CYiDlxkkLJw8Pu4bH7iMj",
-					"playlist"
-
-				]
-			},
+			
 			{
         "title":"الوطنية Replays",
         "provider":"youtube",
@@ -91,10 +102,10 @@
 				]
 			},
 			{
-				"title": "ملخصات",
+				"title": "Be sport Tv",
 				"provider": "youtube",
 				"arguments": [
-					"UC_dPxaD1BvNhWI2ZDEdSz1A",
+					"UCFzNxaxHBurA4w9hTsXNxHg",
 					"channel"
 
 				]
@@ -155,20 +166,29 @@
 
 				]
 			},
-{
-				"title": "kooora",
+			{
+				"title": "Football Legion",
 				"provider": "youtube",
 				"arguments": [
-					"UCJeSOWjupev0o3jOXMu9gTA",
+					"UCwwKf9PggWRo6pkigs74MDA",
+					"channel"
+
+				]
+			},
+{
+				"title": "MEDIAFOOTBALL",
+				"provider": "youtube",
+				"arguments": [
+					"UC4lkbJu87Pd8YbpgxEZF6Dg",
 					"channel"
 
 				]
 			},
 			{
-				"title": "أوروبا",
+				"title": "كورة وبس ",
 				"provider": "youtube",
 				"arguments": [
-					"UCzpNXaiimJMtw2Ntj3raULw",
+					"UCP1f5PC78AVMMT6PmEE4Sigw",
 					"channel"
 
 				]
