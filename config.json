@@ -209,7 +209,7 @@
  {
 		"title": "رابط 1 مباشر",
 		"drawable": "",
-		"submenu": "",
+		"submenu": "شاهد مباشر",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
