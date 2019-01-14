@@ -259,28 +259,54 @@
 		}]
 	},
  {
-		"title": "m6",
+		"title": "الوطنية 1",
 		"drawable": "",
-		"submenu": " تغطية ",
+		"submenu": "قنوات أخرى ",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://www.tntendirect.com/M6-en-direct"
+				"https://tunisie360.net/tv-tunisienne/wataniya-1"
 			]
 		}]
 	},
  {
-		"title": "mbc 2",
+		"title": "الوطنية 2",
 		"drawable": "",
-		"submenu": "fr",
+		"submenu": "",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://iptv-planet.com/mbc2.html"
+				"https://tunisie360.net/tv-tunisienne/wataniya-2"
+			]
+		}]
+	},
+ {
+		"title": "الجزيرة",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://tunisie360.net/tv-tunisienne/al-jazeera"
+			]
+		}]
+	},
+ {
+		"title": "France 24",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://tunisie360.net/tv-tunisienne/france-24-arabe"
 			]
 		}]
 	},
