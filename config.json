@@ -272,7 +272,7 @@
 		}]
 	},
  {
-		"title": "mmmc",
+		"title": "mbc 2",
 		"drawable": "",
 		"submenu": "fr",
 		"iap": false,
@@ -280,7 +280,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://iptv-planet.com/mbc1.html"
+				"http://iptv-planet.com/mbc2.html"
 			]
 		}]
 	},
