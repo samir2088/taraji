@@ -259,7 +259,7 @@
 		}]
 	},
  {
-		"title": "رابط",
+		"title": "m6",
 		"drawable": "",
 		"submenu": " تغطية ",
 		"iap": false,
@@ -267,7 +267,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://www.stream4free.live/tfx"
+				"https://www.tntendirect.com/M6-en-direct"
 			]
 		}]
 	},
