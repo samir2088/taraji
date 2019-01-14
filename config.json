@@ -310,6 +310,32 @@
 			]
 		}]
 	},
+ {
+		"title": "CN arabia",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.elahmad.com/tv/watch.php?id=cnarabia"
+			]
+		}]
+	},
+ {
+		"title": "Rai sport",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.firstonetv.live/Live/Italy/Rai-3-33"
+			]
+		}]
+	},
 
 	{
 		"title": "Club",
