@@ -311,7 +311,7 @@
 		}]
 	},
  {
-		"title": "CN arabia",
+		"title": "TF1",
 		"drawable": "",
 		"submenu": "",
 		"iap": false,
@@ -319,12 +319,12 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://www.elahmad.com/tv/watch.php?id=cnarabia"
+				"https://www.firstonetv.live/Live/France/TF1-28"
 			]
 		}]
 	},
  {
-		"title": "Rai sport",
+		"title": "ZDF",
 		"drawable": "",
 		"submenu": "",
 		"iap": false,
@@ -332,7 +332,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://www.firstonetv.live/Live/Italy/Rai-3-33"
+				"https://www.firstonetv.live/Live/Germany/ZDF-2"
 			]
 		}]
 	},
