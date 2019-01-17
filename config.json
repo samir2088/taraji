@@ -194,6 +194,25 @@
 				]
 			},
 			{
+				"title": "اولتراس تيوب",
+				"provider": "youtube",
+				"arguments": [
+					"UCHfhwuaO2bAAAr2x-QVn3nQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "ElKaweer",
+				"provider": "youtube",
+				"arguments": [
+					"UCvRbdoDaIeiY6umPJg1L0KA",
+					"channel"
+
+
+		]
+},
+			{
 				"title": "كورة وبس ",
 				"provider": "youtube",
 				"arguments": [
