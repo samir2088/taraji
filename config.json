@@ -341,6 +341,19 @@
 		}]
 	},
  {
+		"title": "On Sport ",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://egytal2a.com/2018/10/on-sport-hd.html"
+			]
+		}]
+	},
+ {
 		"title": "الجزيرة",
 		"drawable": "",
 		"submenu": "",
@@ -366,6 +379,7 @@
 			]
 		}]
 	},
+ 
  {
 		"title": "TF1",
 		"drawable": "",
@@ -376,19 +390,6 @@
 			"provider": "webview",
 			"arguments": [
 				"https://www.firstonetv.live/Live/France/TF1-28"
-			]
-		}]
-	},
- {
-		"title": "ZDF",
-		"drawable": "",
-		"submenu": "",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"https://www.firstonetv.live/Live/Germany/ZDF-2"
 			]
 		}]
 	},
