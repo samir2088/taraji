@@ -63,11 +63,12 @@
 				]
 			},
 			
+			
 		  {
-				"title": "TN Foot",
+				"title": "TN Sport HD",
 				"provider": "youtube",
 				"arguments": [
-					"UCMP1Vcd1z_zoPy6cXci5MOw",
+					"UCshowwqv0gW1PMWi9ArLEvQ",
 					"channel"
 
 				]
@@ -138,6 +139,15 @@
 
 				]
 			},
+			{
+				"title": "On Sport",
+				"provider": "youtube",
+				"arguments": [
+					"UCjnz9C7WcEpiwbNv_ACxzjQ",
+					"channel"
+
+				]
+			},
 {
 				"title": "الدوري المغربي ",
 				"provider": "youtube",
@@ -167,10 +177,19 @@
 			},
 			
 {
-				"title": "Europe",
+				"title": "ELMehdi TV",
 				"provider": "youtube",
 				"arguments": [
-					"UC7C-kigODYM1DhEO14yKXAA",
+					"UCE7DWbUZyZhm_ke4tI1qRxg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Show Tube",
+				"provider": "youtube",
+				"arguments": [
+					"UCZxtE6hefVI5dSX19K4eiSQ",
 					"channel"
 
 				]
