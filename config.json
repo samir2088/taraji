@@ -5,25 +5,7 @@
 		"submenu": "",
 		"iap": false,
 		"tabs": [
-{
-				"title": "آخر الأخبار",
-				"provider": "youtube",
-				"arguments": [
-					"UCS1OKeukcane2LB9m7cuecw",
-					"channel"
 
-				]
-			},
-			
-			{
-				"title": "Est Tunis HD",
-				"provider": "youtube",
-				"arguments": [
-					"UCArUYyYBngpwiklYtqZPPfg",
-					"channel"
-
-				]
-			},
 			{
 				"title": "Artiste Tunisien",
 				"provider": "youtube",
