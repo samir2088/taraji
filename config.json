@@ -5,6 +5,15 @@
 		"submenu": "",
 		"iap": false,
 		"tabs": [
+			{
+				"title": "Foot 24 tt",
+				"provider": "youtube",
+				"arguments": [
+					"UCuPDFRItTEn34XWqAcdCgNg",
+					"channel"
+
+				]
+},
 
 			{
 				"title": "Artiste Tunisien",
