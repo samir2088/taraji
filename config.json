@@ -5,7 +5,7 @@
 		"submenu": "",
 		"iap": false,
 		"tabs": [
-			{
+{
 				"title": "آخر الأخبار",
 				"provider": "youtube",
 				"arguments": [
