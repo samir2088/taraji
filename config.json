@@ -34,7 +34,7 @@
 				]
 			},
 			{
-				"title": "MEDIAFOOTBALL",
+				"title": "المنتخب الوطني",
 				"provider": "youtube",
 				"arguments": [
 					"PLxfsTkT4TBf5cDmuC80_O_yFh_t5SqHGf",
@@ -62,10 +62,10 @@
 				]
 			},
 			{
-				"title": "Nessma Sport",
+				"title": "News",
 				"provider": "youtube",
 				"arguments": [
-					"UCRs-gXzqUiOuXcCTTOQhVug",
+					"UCArUYyYBngpwiklYtqZPPfg",
 					"channel"
 
 				]
