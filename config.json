@@ -33,6 +33,15 @@
 
 				]
 			},
+			{
+				"title": "MEDIAFOOTBALL",
+				"provider": "youtube",
+				"arguments": [
+					"PLxfsTkT4TBf5cDmuC80_O_yFh_t5SqHGf",
+					"playlist"
+
+				]
+			},
 
 			{
 				"title": "الدوري التونسي",
@@ -220,15 +229,7 @@
 
 				]
 			},
-{
-				"title": "MEDIAFOOTBALL",
-				"provider": "youtube",
-				"arguments": [
-					"UC4lkbJu87Pd8YbpgxEZF6Dg",
-					"channel"
 
-				]
-			},
 			{
 				"title": "اولتراس تيوب",
 				"provider": "youtube",
