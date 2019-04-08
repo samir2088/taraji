@@ -5,24 +5,6 @@
 		"submenu": "",
 		"iap": false,
 		"tabs": [
-			{
-				"title": "Foot 24 tt",
-				"provider": "youtube",
-				"arguments": [
-					"PLxfsTkT4TBf6Yfgw5xykr3UZXHPLOvhMo",
-					"playlist"
-
-				]
-},
-			{
-				"title": "EST",
-				"provider": "youtube",
-				"arguments": [
-					"UCArUYyYBngpwiklYtqZPPfg",
-					"channel"
-
-				]
-},
 
 			{
 				"title": "Artiste Tunisien",
@@ -33,15 +15,7 @@
 
 				]
 			},
-			{
-				"title": "المنتخب الوطني",
-				"provider": "youtube",
-				"arguments": [
-					"PLxfsTkT4TBf5cDmuC80_O_yFh_t5SqHGf",
-					"playlist"
-
-				]
-			},
+			
 
 			{
 				"title": "الدوري التونسي",
