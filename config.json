@@ -36,6 +36,15 @@
 				]
 			},
 			{
+				"title": "Foot tn",
+				"provider": "youtube",
+				"arguments": [
+					"UCmpaP5sOoAysK02F6cJrPpg",
+					"channel"
+
+				]
+			},
+			{
 				"title": "News",
 				"provider": "youtube",
 				"arguments": [
@@ -89,6 +98,31 @@
 				"provider": "youtube",
 				"arguments": [
 					"UCZp-qqc1hhgLxfm2XvGQhGg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "football boss",
+				"provider": "youtube",
+				"arguments": [
+					"UCmpaP5sOoAysK02F6cJrPpg",
+					"channel"
+
+				]
+			},{
+				"title": "The GodFootball",
+				"provider": "youtube",
+				"arguments": [
+					"UCv3pLbsL7YtjugU4ZIXqg7Q",
+					"channel"
+
+				]
+			},{
+				"title": "Sky Football",
+				"provider": "youtube",
+				"arguments": [
+					"UCuPDFRItTEn34XWqAcdCgNg",
 					"channel"
 
 				]
