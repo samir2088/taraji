@@ -7,20 +7,29 @@
 		"tabs": [
 
 			{
-				"title": "Iyed SK",
+				"title": "Esperanza",
 				"provider": "youtube",
 				"arguments": [
-					"UCHWm04smNqG7N9rCwzZ1Y1g",
+					"UCHc8oT87O7lZUrFsORkAFlw",
 					"channel"
 
 				]
 			},
 			{
-				"title": "is my life",
+				"title": "Foot 24",
 				"provider": "youtube",
 				"arguments": [
-					"UCAUX2IFh6Dlu80KOkZTbPNg",
+					"UCuPDFRItTEn34XWqAcdCgNg",
 					"channel"
+
+				]
+			},
+			{
+				"title": "Taraji",
+				"provider": "youtube",
+				"arguments": [
+					"PLj4k1NrtWk2_MmflxFyaopLdsks6_16gX",
+					"playlist"
 
 				]
 			},
@@ -44,10 +53,10 @@
 			},
 			
 			{
-				"title": "Artiste Tunisien",
+				"title": "Sports",
 				"provider": "youtube",
 				"arguments": [
-					"UCGeQfeDp5wSzSEC81CNaXJg",
+					"UCOpRV2rr5-y4BQv3wleFYTQ",
 					"channel"
 
 				]
@@ -73,19 +82,19 @@
 				]
 			},
 			{
-				"title": "Goud نيشان",
+				"title": "World FootBall",
 				"provider": "youtube",
 				"arguments": [
-					"UCmpaP5sOoAysK02F6cJrPpg",
+					"UCERsIc3SBjzlWHbjGaBPZGA",
 					"channel"
 
 				]
 			},
 			{
-				"title": "SZ سكاوت زوم",
+				"title": "Kiroo",
 				"provider": "youtube",
 				"arguments": [
-					"UClRyEdajABlo4uc-IBXw6cQ",
+					"UCnKVk6n3NBQLx9n342ZdcOw",
 					"channel"
 
 				]
@@ -128,15 +137,7 @@
 
 				]
 			},
-			{
-				"title": "Foot 24",
-				"provider": "youtube",
-				"arguments": [
-					"UCuPDFRItTEn34XWqAcdCgNg",
-					"channel"
-
-				]
-			},
+			
 			
 			{
         "title":"الوطنية Replays",
@@ -220,10 +221,10 @@
 				]
 			},
 			{
-				"title": "On Sport",
+				"title": "RedsTech",
 				"provider": "youtube",
 				"arguments": [
-					"UCjnz9C7WcEpiwbNv_ACxzjQ",
+					"UCNJB00VyPWSIJYq9Otx0zUQ",
 					"channel"
 
 				]
